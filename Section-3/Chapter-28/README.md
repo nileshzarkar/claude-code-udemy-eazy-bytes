@@ -15,5 +15,20 @@ github.com
   - Token: gho_************************************
   - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
 
-D:\AI\claude-code-udemy-eazy-bytes\Section-3\Chapter-28\start\job-portal-ui
-This project is not tracked by the github 
+D:\AI\job-portal-ui
+This project is not tracked by the github
+
+D:\AI\job-portal-ui> claude
+
+───────────────────────────────────────────────────────────────────────────────────────────────────
+> initialize the git inside this repo
+───────────────────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────────────────
+! git status
+───────────────────────────────────────────────────────────────────────────────────────────────────
+───────────────────────────────────────────────────────────────────────────────────────────────────
+❯ commit and push all the changes into a remote repo
+───────────────────────────────────────────────────────────────────────────────────────────────────
+
+https://github.com/nileshzarkar/job-portal-ui
+
